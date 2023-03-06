@@ -29,6 +29,7 @@ def Ashwin():
 ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![image](https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg)
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=JackJJCodes"/>       
