@@ -37,7 +37,7 @@ def Ashwin():
 	<a href="https://github.com/AshwinRamesh21"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ashwin-ramesh-/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/ashwin_ramesh_21?igshid=ZDdkNTZiNTM="><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://medium.com/@ashwinramesh2001"><img src="https://icons8.com/icon/m8ClhVaNuUH7/medium-new" alt="Medium"/></a>
+	<a href="https://medium.com/@ashwinramesh2001"><img src="![image](https://user-images.githubusercontent.com/64190677/223193573-7f774054-3fd8-4784-861f-81937dcfaabc.png)" alt="Medium"/></a>
 </p>
 
 ### :fire: My Stats :
