@@ -1,5 +1,5 @@
 <h1 align="center"> Hello there, I'm Ashwin Ramesh </h1>
-<h2> Student at VIT Bhopal University and Intern at Amadeus Labs, Bangalore</h2>
+<h2 align="center"> Student at VIT Bhopal University and Intern at Amadeus Labs, Bangalore</h2>
 
 - 🌱 AI, ML and CV enthusiast 🤓
 - 👯 Always a great team player, open to more collabs 😇
@@ -40,7 +40,7 @@ def Ashwin():
 	<a href="https://medium.com/@ashwinramesh2001"><img src="https://user-images.githubusercontent.com/64190677/223194716-3926d137-ec08-40d9-bf5d-02f8a9f65f55.png" width=50 height=50 alt="Medium"/></a>
 </p>
 
-### :fire: My Stats :
+My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashwinramesh21&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinramesh21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
