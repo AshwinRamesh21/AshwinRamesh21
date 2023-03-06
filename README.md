@@ -41,7 +41,9 @@ def Ashwin():
 	<a href="https://github.com/AshwinRamesh21"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ashwin-ramesh-/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/ashwin_ramesh_21?igshid=ZDdkNTZiNTM="><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://medium.com/@ashwinramesh2001"><img src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/JPG/RGB/Medium-Symbol-Black-RGB%401x.jpg" alt="Medium"/></a>
 </p>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashwinramesh21&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinramesh21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
