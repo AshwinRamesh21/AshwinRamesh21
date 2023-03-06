@@ -6,13 +6,13 @@
 - 🥅 To a greater future with a past worth cherishing
 - ⚡ Fun fact: Gaming enthusiast, Melomaniac, Prefers Sleep and Food
 
-python
+```python
 def Ashwin():
   skills = {'Python' : 'Intermediate', 'DSA': 'Intermediate', 'HTML & CSS': 'Beginner', 'Javascript' : 'Beginner'}
   tools = ['Numpy', 'Pandas', 'Sklearn', 'Matplotlib', 'Seaborn', 'Keras', 'Flask', 'OpenCV', 'Tensorflow']
   activeBlogger = True
   return ∞
-
+```
 
 <h1 align="center"> My Tech-Stack! </h1>
 
@@ -29,7 +29,7 @@ def Ashwin():
 ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![image](https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg)
+![image](https://img.shields.io/badge/R-1572B6?style=for-the-badge&logo=r&logoColor=white)
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=JackJJCodes"/>       
