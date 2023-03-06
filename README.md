@@ -31,17 +31,13 @@ def Ashwin():
 ![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![image](https://img.shields.io/badge/R-1572B6?style=for-the-badge&logo=r&logoColor=white)
 
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=JackJJCodes"/>       
-</p>
-
 <h1 align="center"> Connect with me! </h1>
 
 <p align="center">
 	<a href="https://github.com/AshwinRamesh21"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ashwin-ramesh-/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/ashwin_ramesh_21?igshid=ZDdkNTZiNTM="><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://medium.com/@ashwinramesh2001"><img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/03_Two_Color/01_Black_White/PNG/RGB/Medium-Logo-Two-Color-Black-White-RGB%401x.png" alt="Medium"/></a>
+	<a href="https://medium.com/@ashwinramesh2001"><img src="https://icons8.com/icon/m8ClhVaNuUH7/medium-new" alt="Medium"/></a>
 </p>
 
 ### :fire: My Stats :
