@@ -31,6 +31,10 @@ def Ashwin():
 ![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![image](https://img.shields.io/badge/R-1572B6?style=for-the-badge&logo=r&logoColor=white)
 
+### :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashwinramesh21&theme=dark&background=000000)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinramesh21&show_icons=true&theme=synthwave)
+
 <h1 align="center"> Connect with me! </h1>
 
 <p align="center">
@@ -40,6 +44,4 @@ def Ashwin():
 	<a href="https://medium.com/@ashwinramesh2001"><img src="https://user-images.githubusercontent.com/64190677/223194716-3926d137-ec08-40d9-bf5d-02f8a9f65f55.png" width=50 height=50 alt="Medium"/></a>
 </p>
 
-### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashwinramesh21&theme=dark&background=000000)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinramesh21&show_icons=true&theme=synthwave)
+
