@@ -1,5 +1,5 @@
 <h1 align="center"> Hello there, I'm Ashwin Ramesh </h1>
-## Student at VIT Bhopal University and Intern at Amadeus Labs, Bangalore
+<h2> Student at VIT Bhopal University and Intern at Amadeus Labs, Bangalore</h2>
 
 - 🌱 AI, ML and CV enthusiast 🤓
 - 👯 Always a great team player, open to more collabs 😇
