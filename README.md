@@ -26,7 +26,6 @@ def Ashwin():
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
@@ -41,7 +40,7 @@ def Ashwin():
 	<a href="https://github.com/AshwinRamesh21"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ashwin-ramesh-/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/ashwin_ramesh_21?igshid=ZDdkNTZiNTM="><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://medium.com/@ashwinramesh2001"><img src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/JPG/RGB/Medium-Symbol-Black-RGB%401x.jpg" alt="Medium"/></a>
+	<a href="https://medium.com/@ashwinramesh2001"><img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/03_Two_Color/01_Black_White/PNG/RGB/Medium-Logo-Two-Color-Black-White-RGB%401x.png" alt="Medium"/></a>
 </p>
 
 ### :fire: My Stats :
