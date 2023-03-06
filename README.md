@@ -1,5 +1,3 @@
-[JackJJCodes](bottom_header.svg)
-
 <h1 align="center"> Hello there, I'm Ashwin Ramesh </h1>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -43,9 +41,9 @@ def Ashwin():
 <h1 align="center"> Connect with me! </h1>
 
 <p align="center">
-	<a href="https://github.com/JackJJCodes"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/jackson-sondi-0100/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/j_24_07/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://github.com/AshwinRamesh21"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/ashwin-ramesh-/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://instagram.com/ashwin_ramesh_21?igshid=ZDdkNTZiNTM="><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
 <!-- <h1 align="center"> My Stats! </h1>
@@ -66,7 +64,3 @@ def Ashwin():
   <img align="center" width="100%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackJJCodes&theme=dark&langs_count=4">
 </a>
 </div> -->
-
-
-
-![JackJJCodes](bottom_header.svg)
