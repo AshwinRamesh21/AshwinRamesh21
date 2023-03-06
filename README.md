@@ -44,4 +44,4 @@ def Ashwin():
 </p>
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=ashwin-ramesh-21
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashwinramesh21&theme=dark&background=000000)](https://git.io/streak-stats)
