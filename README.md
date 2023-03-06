@@ -1,7 +1,4 @@
 <h1 align="center"> Hello there, I'm Ashwin Ramesh </h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-
 ## Student at VIT Bhopal University and Intern at Amadeus Labs, Bangalore
 
 - 🌱 AI, ML and CV enthusiast 🤓
@@ -46,21 +43,5 @@ def Ashwin():
 	<a href="https://instagram.com/ashwin_ramesh_21?igshid=ZDdkNTZiNTM="><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
-<!-- <h1 align="center"> My Stats! </h1>
-<div>
-<a href="https://github.com/JackJJCodes">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=JackJJCodes&show_icons=true&theme=radical">
-</a>
-<a href="https://github.com/JackJJCodes">
-  <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=JackJJCodes&theme=dark)](https://git.io/streak-stats">
-</a>
-</div>
-
-<br>
-<br>
-
-<div>
-<a href="https://github.com/JackJJCodes">
-  <img align="center" width="100%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackJJCodes&theme=dark&langs_count=4">
-</a>
-</div> -->
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=ashwin-ramesh-21
