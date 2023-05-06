@@ -30,7 +30,7 @@ def Ashwin():
 ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-00599C?style=for-the-badge&logo=docker&logoColor=white)
-![image](https://img.shields.io/badge/Angular-CA4245?00599C?style=for-the-badge&logo=angular&logoColor=white)
+![image](https://img.shields.io/badge/Angular-CA4245?style=for-the-badge&logo=angular&logoColor=white)
 ![image](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=white)
 ![image](https://img.shields.io/badge/Quarkus-3776AB?style=for-the-badge&logo=quarkus&logoColor=white)
 
