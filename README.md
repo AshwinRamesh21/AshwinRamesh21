@@ -30,7 +30,7 @@ def Ashwin():
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![image](https://img.shields.io/badge/R-1572B6?style=for-the-badge&logo=r&logoColor=white)
-![image](https://img.shields.io/badge/Docker-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/Docker-00599C?style=for-the-badge&logo=docker&logoColor=white)
 
 <h1 align="center"> Stats </h1>
 
