@@ -32,7 +32,7 @@ def Ashwin():
 ![image](https://img.shields.io/badge/R-1572B6?style=for-the-badge&logo=r&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-00599C?style=for-the-badge&logo=docker&logoColor=white)
 
-<h1 align="center"> Stats </h1>
+<h1 align="right"> Stats </h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashwinramesh21&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinramesh21&show_icons=true&theme=synthwave)
