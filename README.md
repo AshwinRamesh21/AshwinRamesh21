@@ -16,21 +16,23 @@ def Ashwin():
 
 <h1 align="center"> Tech-Stack </h1>
 
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white)
+![image](https://img.shields.io/badge/R-1572B6?style=for-the-badge&logo=r&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![image](https://img.shields.io/badge/R-1572B6?style=for-the-badge&logo=r&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-00599C?style=for-the-badge&logo=docker&logoColor=white)
+![image](https://img.shields.io/badge/Angular-CA4245?00599C?style=for-the-badge&logo=angular&logoColor=white)
+![image](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=white)
+![image](https://img.shields.io/badge/Quarkus-3776AB?style=for-the-badge&logo=quarkus&logoColor=white)
 
 <h1 align="center"> Stats </h1>
 
